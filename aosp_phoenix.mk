@@ -14,6 +14,7 @@ $(call inherit-product, device/xiaomi/phoenix/device.mk)
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
 # Device identifier. This must come after all inclusions.
+CUSTOM_BUILD_TYPE := PRIVATE
 PRODUCT_NAME := aosp_phoenix
 PRODUCT_DEVICE := phoenix
 PRODUCT_BRAND := Xiaomi
