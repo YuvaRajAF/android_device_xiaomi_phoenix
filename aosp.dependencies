@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "GZR-Kernels/Optimus_Drunk_Phoenix",
+    "target_path": "kernel/xiaomi/sm6150",
+    "revision": "10.0"
+  },
+  {
+    "remote": "github",
+    "repository": "YuvaRajAF/android_vendor_xiaomi_phoenix",
+    "target_path": "vendor/xiaomi/phoenix",
+    "revision": "q"
+  }
+]
