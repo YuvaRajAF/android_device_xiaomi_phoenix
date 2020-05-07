@@ -76,6 +76,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
     debug.sf.high_fps_early_gl_phase_offset_ns=9000000 \
     debug.sf.hw=0 \
     debug.sf.phase_offset_threshold_for_next_vsync_ns=6100000 \
+	debug.hwui.renderer=skiavk \
     persist.demo.hdmirotationlock=false \
     persist.hwc.enable_vds=1 \
     persist.sys.sf.color_saturation=1.0 \
